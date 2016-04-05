@@ -1,0 +1,21 @@
+﻿1>------ Build started: Project: FriendsWithWorkingCars, Configuration: Debug Win32 ------
+1>  Main.cpp
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\database.h(65): warning C4267: 'argument': conversion from 'size_t' to 'SQLSMALLINT', possible loss of data
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\database.h(119): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\database.h(130): warning C4018: '>': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\database.h(136): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\database.h(142): warning C4018: '<=': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\database.h(171): warning C4018: '>': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(30): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(337): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(344): warning C4018: '>': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(345): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(577): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(584): warning C4018: '>': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(585): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(774): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(781): warning C4018: '>': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(782): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\kratcliff15\desktop\friendswithworkingcars\friendswithworkingcars\menu.h(839): warning C4101: 'milesLimit': unreferenced local variable
+1>  FriendsWithWorkingCars.vcxproj -> C:\Users\kratcliff15\Desktop\FriendsWithWorkingCars\Debug\FriendsWithWorkingCars.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
